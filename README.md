@@ -121,3 +121,6 @@ Youdao is wudao, a powerful dict.
 * 添加了tab补全的支持，对常用的1w词进行tab补全 <a href="https://github.com/ChestnutHeng/Wudao-dict/issues/15">issue #15: 模糊查询的支持</a>
 * 添加了生词本功能，自动把查过的词和释义添加到生词本文件中
 * 优化了排版，同一单词不再截断换行了 #该功能因为转移字符的问题搁置 <a href="https://github.com/ChestnutHeng/Wudao-dict/issues/16">issue #16:避免在单词内换行</a>
+
+#### (Jul 30,2018)
+* 支持在windows下使用
